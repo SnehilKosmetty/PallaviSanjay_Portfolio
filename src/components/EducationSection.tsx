@@ -40,9 +40,9 @@ const EducationSection = () => {
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
                   <div>
                     <h3 className="text-2xl font-bold text-foreground">
-                      Master of Science in Computer Science
+                      Master of Science in Managment of Information Systems
                     </h3>
-                    <p className="text-primary font-medium mt-1">Stanford University</p>
+                    <p className="text-primary font-medium mt-1">NorthEastern University</p>
                   </div>
                   <span className="text-muted-foreground mt-2 md:mt-0">2024 - 2026</span>
                 </div>
@@ -83,9 +83,9 @@ const EducationSection = () => {
                     <h3 className="text-2xl font-bold text-foreground">
                       Bachelor of Science in Computer Science
                     </h3>
-                    <p className="text-primary font-medium mt-1">UC Berkeley</p>
+                    <p className="text-primary font-medium mt-1">Amrutvahini College of Engineering</p>
                   </div>
-                  <span className="text-muted-foreground mt-2 md:mt-0">2020 - 2024</span>
+                  <span className="text-muted-foreground mt-2 md:mt-0">2019 - 2023</span>
                 </div>
                 <p className="text-muted-foreground mb-4">
                   Graduated Magna Cum Laude with a focus on Software Engineering. 

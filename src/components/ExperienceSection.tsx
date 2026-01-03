@@ -5,10 +5,10 @@ import { Building2, Calendar, MapPin } from "lucide-react";
 
 const experiences = [
   {
-    company: "TechCorp Inc.",
-    role: "Software Engineering Intern",
-    duration: "Jun 2024 - Aug 2024",
-    location: "San Francisco, CA",
+    company: "Geode Blockchain.",
+    role: "Software Engineering Intern ",
+    duration: "Jan 2026 - Present",
+    location: "Clearwater, FL",
     description: [
       "Developed microservices using Node.js and TypeScript, improving API response times by 40%",
       "Collaborated with cross-functional teams to deliver a customer-facing dashboard used by 10,000+ users",
@@ -17,10 +17,10 @@ const experiences = [
     technologies: ["React", "Node.js", "TypeScript", "AWS", "PostgreSQL"],
   },
   {
-    company: "InnovateLabs",
-    role: "Full Stack Developer Intern",
-    duration: "Jan 2024 - May 2024",
-    location: "New York, NY",
+    company: "Sumago Infotech",
+    role: "AWS Devops Engineer Intern",
+    duration: "Jul 2023 - Oct 2023",
+    location: "India",
     description: [
       "Built responsive web applications using React and Next.js for an e-commerce platform",
       "Designed and optimized database schemas, reducing query times by 50%",
@@ -29,10 +29,10 @@ const experiences = [
     technologies: ["Next.js", "Python", "MongoDB", "Docker", "Redis"],
   },
   {
-    company: "StartupXYZ",
-    role: "Backend Developer Intern",
-    duration: "May 2023 - Aug 2023",
-    location: "Austin, TX",
+    company: "Sumago Infotech",
+    role: "Full-Stack Developer Intern",
+    duration: "Sep 2021 - Apr 2022",
+    location: "India",
     description: [
       "Architected RESTful APIs handling 100,000+ daily requests with 99.9% uptime",
       "Integrated third-party payment systems, processing $500K+ in monthly transactions",
