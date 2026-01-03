@@ -57,7 +57,7 @@ const Navbar = () => {
             transition={{ delay: 0.5 }}
           >
             <Button variant="outline" size="sm" asChild>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/assets/Pallavi_resume.pdf" target="_blank" rel="noopener noreferrer">
                 Resume
               </a>
             </Button>

@@ -49,7 +49,7 @@ const ContactSection = () => {
           <div className="glass-card p-8 md:p-12 rounded-2xl text-center">
             <div className="flex items-center justify-center gap-2 text-muted-foreground mb-6">
               <MapPin size={18} />
-              <span>San Francisco, CA</span>
+              <span>Boston, MA</span>
             </div>
 
             <Button variant="glow" size="xl" asChild className="mb-8">

@@ -5,7 +5,7 @@ import { Building2, Calendar, MapPin } from "lucide-react";
 
 const experiences = [
   {
-    company: "Geode Blockchain.",
+    company: "Geode Blockchain",
     role: "Software Engineering Intern ",
     duration: "Jan 2026 - Present",
     location: "Clearwater, FL",
